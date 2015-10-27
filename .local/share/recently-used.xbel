@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/pi/Desktop/guess.py" added="2015-10-09T08:58:34Z" modified="2015-10-09T08:58:34Z" visited="2015-10-09T08:58:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Leafpad" exec="&apos;leafpad %u&apos;" modified="2015-10-09T08:58:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Desktop/htmlex.py" added="2015-10-09T09:11:46Z" modified="2015-10-09T09:11:46Z" visited="2015-10-09T09:11:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Leafpad" exec="&apos;leafpad %u&apos;" modified="2015-10-09T09:11:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Desktop/1234.py" added="2015-10-09T09:31:33Z" modified="2015-10-09T09:31:33Z" visited="2015-10-09T09:31:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Leafpad" exec="&apos;leafpad %u&apos;" modified="2015-10-09T09:31:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Desktop/1235.py" added="2015-10-09T09:34:06Z" modified="2015-10-09T09:34:06Z" visited="2015-10-09T09:34:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Leafpad" exec="&apos;leafpad %u&apos;" modified="2015-10-09T09:34:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Desktop/1236.py" added="2015-10-09T09:39:50Z" modified="2015-10-09T09:39:50Z" visited="2015-10-09T09:39:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Leafpad" exec="&apos;leafpad %u&apos;" modified="2015-10-09T09:39:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Desktop/gel.py" added="2015-10-13T12:37:04Z" modified="2015-10-13T12:37:04Z" visited="2015-10-13T12:37:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Leafpad" exec="&apos;leafpad %u&apos;" modified="2015-10-13T12:37:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Desktop/countdown.py" added="2015-10-13T12:39:15Z" modified="2015-10-13T12:39:15Z" visited="2015-10-13T12:39:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Leafpad" exec="&apos;leafpad %u&apos;" modified="2015-10-13T12:39:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Desktop/grail.py" added="2015-10-13T12:55:22Z" modified="2015-10-13T12:55:22Z" visited="2015-10-13T12:55:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Leafpad" exec="&apos;leafpad %u&apos;" modified="2015-10-13T12:55:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Desktop/toystory.py" added="2015-10-13T13:01:11Z" modified="2015-10-13T13:01:11Z" visited="2015-10-13T13:01:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Leafpad" exec="&apos;leafpad %u&apos;" modified="2015-10-13T13:01:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Desktop/task7.py" added="2015-10-13T13:11:51Z" modified="2015-10-13T13:11:51Z" visited="2015-10-13T13:11:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Leafpad" exec="&apos;leafpad %u&apos;" modified="2015-10-13T13:11:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Desktop/feedreader.py" added="2015-10-13T13:32:59Z" modified="2015-10-13T13:32:59Z" visited="2015-10-13T13:32:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Leafpad" exec="&apos;leafpad %u&apos;" modified="2015-10-13T13:32:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Desktop/myserver.py" added="2015-10-16T08:43:33Z" modified="2015-10-16T08:43:33Z" visited="2015-10-16T08:43:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Leafpad" exec="&apos;leafpad %u&apos;" modified="2015-10-16T08:43:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Desktop/socks.py" added="2015-10-20T12:24:58Z" modified="2015-10-20T12:24:58Z" visited="2015-10-20T12:24:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Leafpad" exec="&apos;leafpad %u&apos;" modified="2015-10-20T12:24:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Desktop/DNSresolver.py" added="2015-10-20T12:48:42Z" modified="2015-10-20T12:48:42Z" visited="2015-10-20T12:48:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Leafpad" exec="&apos;leafpad %u&apos;" modified="2015-10-20T12:48:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Desktop/IPresolver.py" added="2015-10-20T12:50:27Z" modified="2015-10-20T12:50:27Z" visited="2015-10-20T12:50:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Leafpad" exec="&apos;leafpad %u&apos;" modified="2015-10-20T12:50:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Desktop/sockettest.py" added="2015-10-20T12:58:28Z" modified="2015-10-20T13:21:11Z" visited="2015-10-20T12:58:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Leafpad" exec="&apos;leafpad %u&apos;" modified="2015-10-20T13:21:11Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Desktop/socktest2.py" added="2015-10-20T13:21:29Z" modified="2015-10-20T13:21:29Z" visited="2015-10-20T13:21:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Leafpad" exec="&apos;leafpad %u&apos;" modified="2015-10-20T13:21:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Desktop/chat.py" added="2015-10-20T13:51:50Z" modified="2015-10-20T13:51:50Z" visited="2015-10-20T13:51:50.201219Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Leafpad" exec="&apos;leafpad %u&apos;" modified="2015-10-20T13:51:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,44 @@
+<!-- download supernav from templates/downloads/supernav.html -->
+<li class="tier-2 super-navigation">
+    
+    <div class="download-os-mac-osx" style="display: none;">
+        
+        <h4>Download for Mac OS X</h4>
+        
+        <p>
+            <a class="button" href="https://www.python.org/ftp/python/3.5.0/python-3.5.0-macosx10.6.pkg">Python 3.5.0</a>
+            <a class="button" href="https://www.python.org/ftp/python/2.7.10/python-2.7.10-macosx10.6.pkg">Python 2.7.10</a>
+        </p>
+        <p>Not the OS you are looking for? Python can be used on 21 different operating systems and environments. <a href="/downloads/">View the full list</a>.</p>
+    </div>
+    
+    <div class="download-os-source" style="display: none;">
+        
+        <h3>Python Source</h3>
+        
+        <p>
+            <a class="button" href="https://www.python.org/ftp/python/3.5.0/Python-3.5.0.tar.xz">Python 3.5.0</a>
+            <a class="button" href="https://www.python.org/ftp/python/2.7.10/Python-2.7.10.tar.xz">Python 2.7.10</a>
+        </p>
+        <p>Not the OS you are looking for? Python can be used on 21 different operating systems and environments. <a href="/downloads/">View the full list</a>.</p>
+    </div>
+    
+    <div class="download-os-windows" style="display: none;">
+        
+        <h4>Download for Windows</h4>
+        
+        <p>
+            <a class="button" href="https://www.python.org/ftp/python/3.5.0/python-3.5.0-webinstall.exe">Python 3.5.0</a>
+            <a class="button" href="https://www.python.org/ftp/python/2.7.10/python-2.7.10.msi">Python 2.7.10</a>
+        </p>
+        <p>Not the OS you are looking for? Python can be used on 21 different operating systems and environments. <a href="/downloads/">View the full list</a>.</p>
+    </div>
+    
+    <div class="download-unknown">
+        <h4>Download Python for Any OS</h4>
+        <p>Python can be used on 21 different operating systems and environments.</p>
+        <p>
+            <a class="button" href="/downloads/operating-systems/">View the Full List</a>
+        </p>
+    </div>
+</li>

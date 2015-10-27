@@ -1,0 +1,11 @@
+<!-- successstories supernav from templates/successstories/supernav.html -->
+       <li class="tier-2 super-navigation">
+            
+            <img src="/m/successstories/Lucasfilm_logo.png" alt="Industrial Light &amp; Magic">
+            
+            <blockquote class="success-quote">
+                ILM runs a batch processing environment capable of modeling, rendering and compositing tens of thousands of motion picture frames per day. Thousands of machines running Linux, IRIX, Compaq Tru64, OS X, Solaris, and Windows join together to provide a production pipeline used by ~800 users daily. Speed of development is key, and Python was a faster way to code (and re-code) the programs that control this production pipeline.
+            </blockquote>
+            <p class="quote-by"><cite>Tim Fortenberry</cite>, <a href="http://www.ilm.com/">Industrial Light &amp; Magic</a></p>
+
+        </li>
